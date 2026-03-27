@@ -1,6 +1,6 @@
 // 🔐 PASSWORD
 function checkPassword() {
-    let correctPassword = "iloveyou";
+    let correctPassword = "swagata@123";
     let input = document.getElementById("password").value;
 
     if (input === correctPassword) {
@@ -12,7 +12,7 @@ function checkPassword() {
 }
 
 // ⏳ COUNTDOWN
-let startDate = new Date("2024-01-01");
+let startDate = new Date("2025-12-25");
 
 setInterval(() => {
     let now = new Date();
