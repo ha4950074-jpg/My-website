@@ -33,7 +33,7 @@ function closePopup() {
 }
 
 // 🎵 MUSIC PLAYER
-let songs = ["romantic.mp3"];
+let songs = ["Song.mp3"];
 let names = ["Romantic Song 💖"];
 let current = 0;
 
