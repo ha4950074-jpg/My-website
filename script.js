@@ -34,7 +34,7 @@ function closePopup() {
 
 // 🎵 MUSIC PLAYER
 let songs = ["Song.mp3"];
-let names = ["Romantic Song 💖"];
+let names = ["romantic Song 💖"];
 let current = 0;
 
 let music = document.getElementById("bg-music");
